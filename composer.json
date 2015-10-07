@@ -1,5 +1,6 @@
 {
 	"name": "sparql/query",
+        "minimum-stability": "stable",
 	"description": "A package to execute sparql with easyRdf lib",
 	"authors": [
 		{
