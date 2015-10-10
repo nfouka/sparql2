@@ -2,6 +2,7 @@
 	"name": "sparql/query",
         "minimum-stability": "dev",
 	"description": "A package to execute sparql with easyRdf lib",
+	"licence": "MIT",
 	"authors": [
 		{
 			"name": "Nadir Fouka",
